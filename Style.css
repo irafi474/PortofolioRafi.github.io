@@ -13,7 +13,7 @@ nav{
      font-family: poppins;
 }
 .jumbotron{
-    padding-top: 6rem;
+    padding-top: 2rem;
     /* background-image: url(Assets/abstract-blue-watercolor-patterned-background_53876-149891\ 1.png); */
 }
 .display-4{
@@ -49,7 +49,8 @@ footer{
     padding-top: 5rem;
 }
 #projects{
-    padding-top: 5rem;
+    padding-top: 2rem;
+	padding-bottom: 2rem;
 }
 #contact{
     padding-top: 5rem;
@@ -299,9 +300,7 @@ footer{
     margin-bottom: 30px;
 	color: #2B3C4A;
 }
-.jumbotron{
-    padding-bottom: 11rem;
-}
+
 .display-4{
 	color: black;
 }
@@ -310,4 +309,17 @@ footer{
 }
 a{
 	text-decoration: none;
+}
+
+.btn{
+	background-color: #E9EBEE;
+	color:dark;
+	font-weight:semi-bold;
+}
+.btn:hover{
+	background-color: #2B3C4A;
+	color:white;
+}
+.carousel:h1{
+	color:black;
 }
