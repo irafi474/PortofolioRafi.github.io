@@ -12,12 +12,13 @@ nav{
 }
 .jumbotron{
     padding-top: 6rem;
-    background-image: url(Assets/abstract-blue-watercolor-patterned-background_53876-149891\ 1.png);
+    /* background-image: url(Assets/abstract-blue-watercolor-patterned-background_53876-149891\ 1.png); */
 }
 .display-4{
     color: white;
     font-weight: bold;
     padding-top: 3rem;
+	font-size: 36px;
 }
 .lead{
     color: white;
@@ -46,13 +47,16 @@ footer{
     padding-top: 5rem;
 }
 #projects{
-    padding-top: 6rem;
+    padding-top: 5rem;
 }
 #contact{
     padding-top: 5rem;
 }
 .carousel-caption d-none d-md-block{
     color: white;
+}
+.container{
+	
 }
 .malasngoding-slider { 
 	border: 10px solid #efefef; 
@@ -294,4 +298,13 @@ footer{
 }
 .jumbotron{
     padding-bottom: 11rem;
+}
+.display-4{
+	color: black;
+}
+.lead{
+	color: black;
+}
+a{
+	text-decoration: none;
 }
