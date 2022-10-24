@@ -5,9 +5,11 @@
 body{
 
     font-family: poppins;
+	background-color: #E9EBEE;
 }
+
 nav{
-    background-color: #2B3C4A;
+    background-color: white;
      font-family: poppins;
 }
 .jumbotron{
@@ -29,7 +31,7 @@ nav{
 }
 
 #projects{
-    background-color: #006778;
+    background-color: white;
 }
 .col1{
     color: white;
@@ -295,6 +297,7 @@ footer{
 }
 .col1{
     margin-bottom: 30px;
+	color: #2B3C4A;
 }
 .jumbotron{
     padding-bottom: 11rem;
