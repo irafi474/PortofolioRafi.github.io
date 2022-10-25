@@ -13,7 +13,7 @@ body{
      font-family: poppins;
 } */
 .jumbotron{
-    padding-top: 2rem;
+    padding-top: 1rem;
     /* background-image: url(Assets/abstract-blue-watercolor-patterned-background_53876-149891\ 1.png); */
 }
 .display-4{
@@ -331,4 +331,13 @@ a{
 }
 .carousel-indicators:button{
 	color:black;
+}
+.btn2{
+	background-color: white;
+	color:dark;
+	font-weight:semi-bold;
+}
+.btn2:hover{
+	background-color: #2B3C4A;
+	color:white;
 }
