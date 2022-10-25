@@ -323,3 +323,12 @@ a{
 .carousel:h1{
 	color:black;
 }
+.card:hover{
+	background-color: #000028;
+	color: #E7E7E7;
+	transition-duration: 0.5s;
+
+}
+.carousel-indicators:button{
+	color:black;
+}
